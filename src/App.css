@@ -49,6 +49,7 @@
   font-size: 40px;
   letter-spacing: 4px;
   font-weight: 100;
+  text-align: center;
   animation: flicker 1.5s infinite alternate; 
 }
 
@@ -56,12 +57,14 @@
   font-size: 20px;
   letter-spacing: 3px;
   font-weight: 100;
+  text-align: center;
   animation: pulsate 2.5s infinite alternate; 
 }
 .box h4 {
   font-size: 30px;
   letter-spacing: 3px;
   font-weight: 100;
+  text-align: center;
   animation: pulsate 2.5s infinite alternate; 
 }
 

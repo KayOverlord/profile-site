@@ -20,7 +20,7 @@ export const Data = [
     title: "Work Projects",
     description: "These are projects I have worked on for moola",
     info: `I've worked for 2 Companies so far and these are the technologies I used during my time with both of them.
-      ReactNative, React.js,Next.js, Node.js, Firebase, GraphQL,PostgreSQL,Docker.\n Okay let's see the Blow`,
+      ReactNative, React.js,Next.js, Node.js, Firebase, GraphQL.\n Okay let's see the Blow`,
     image: "icon",
     iconName: (
       <BsFillBriefcaseFill
@@ -260,7 +260,8 @@ inset 0 0 1.3rem yellow`,
   },
   {
     title: "TopThat",
-    description: "TopThat allowed me to put the Goli Token to use and to try expo pwa",
+    description:
+      "TopThat allowed me to put the Goli Token to use and to try expo pwa",
     info: `TopThat is a story-sharing platform. For each story users will be given points, these points will be used to determine how much Goli tokens users get. Goli tokens will be sent to users each month. The TopThat algorithm will distribute Goli tokens to the users crypto wallet(which is created during the signup process)`,
     image:
       "https://play-lh.googleusercontent.com/aZBrnFHIMEnqnAKoGuQfQN3iJrRNUGwqM5nGQGPkV0vaKmu303ZNcZu1atlnvDv2yGk=w240-h480-rw",
