@@ -207,7 +207,7 @@ inset 0 0 1.3rem green`,
       " Goli was a project I build to explore the world of blockchain technology ",
     info: `Goli is Polygon Token build to power software applications and innovative technologies through funding.`,
     image:
-      "https://scontent.fjnb1-1.fna.fbcdn.net/v/t39.30808-6/302602781_403379111922365_3113053652681245952_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGLRv6ycgkA06qeL28vYrOiOtVDd8ZKCA061UN3xkoIDZqLxPHypPMTE-WbIBSoWZTeNCuqFDzP2-HY8Kv0OfbR&_nc_ohc=He6IJlBbkjoAX_lLK2F&_nc_zt=23&_nc_ht=scontent.fjnb1-1.fna&oh=00_AfCzB4uLBrllD0F9eWRUNxiWu0ASUjNle3OO8637U1uTkw&oe=63D740EC",
+      "https://pbs.twimg.com/profile_images/1406568173684527107/n2X3rq4p_400x400.jpg",
     iconName: (
       <BsCircleFill
         size={110}
